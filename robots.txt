@@ -1,0 +1,13 @@
+#
+# robots.txt for FENLLY's "img/" library repo path,
+# especially for https://img.fenlly.org website as standby.
+#
+
+User-Agent: *
+Disallow: /
+
+
+#
+# Pingmin Fenlly Liu
+# 20181120
+#
